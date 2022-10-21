@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .titulo {
+    width: 40%;
+    font-size: 2rem;
+    font-weight: ExtraLight 200;
+    color: #68ac92;
+  }
+
+  .header {
+    text-align: center;
+    color: #fff;
+    background: #68ac92;  
+  }
+
+  .texto {
+    color:black;
+  }
+
+
+
+ 
